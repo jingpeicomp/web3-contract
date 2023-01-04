@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "@alch/alchemy-web3": "^1.4.7",
+    "@openzeppelin/contracts": "^4.8.0",
+    "@truffle/hdwallet-provider": "^2.1.2",
+    "alchemy-sdk": "^2.2.3",
+    "dotenv": "^16.0.3"
+  },
+  "name": "nft-demo",
+  "version": "1.0.0",
+  "directories": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
